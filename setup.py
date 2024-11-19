@@ -13,6 +13,8 @@ gui = [
     'pyside6',
     'pynput',
     'screeninfo',
+    'torch',
+    'torchvision'
 ]
 api = [
     'streamlit>=1.8.1',
